@@ -57,3 +57,4 @@ htmlcov/
 
 # Generated images (if they're outputs, not source)
 # images/*.png  # Uncomment if images are generated outputs
+docs/
