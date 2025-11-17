@@ -8,4 +8,4 @@ SELECT
     COUNT(*) AS Amount
 FROM olist_orders
 GROUP BY order_status
-ORDER BY Amount DESC;
+ORDER BY order_status;
